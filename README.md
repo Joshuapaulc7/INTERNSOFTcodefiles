@@ -1,2 +1,2 @@
 # INTERNSOFTcodefiles
-All code files from INTERNSOFT SESSIONS
+All code files and projects from the INTERNSOFT SESSIONS
